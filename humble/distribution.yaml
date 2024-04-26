@@ -7,6 +7,8 @@ release_platforms:
   - '8'
   ubuntu:
   - jammy
+  fedora:
+  - 40
 repositories:
   aandd_ekew_driver_py:
     doc:
